@@ -1,0 +1,2 @@
+webpackJsonp([10],{Iol6:function(t,n){},"xh/W":function(t,n,e){"use strict";Object.defineProperty(n,"__esModule",{value:!0});var r={render:function(){var t=this.$createElement;return(this._self._c||t)("div",[this._v("\n  productDictionaryMg\n")])},staticRenderFns:[]};var i=e("VU/8")({name:"ProductDictionaryMg",data:function(){return{}}},r,!1,function(t){e("Iol6")},"data-v-55497310",null);n.default=i.exports}});
+//# sourceMappingURL=10.7da576d71022f83988a5.js.map
