@@ -1,0 +1,2 @@
+webpackJsonp([19],{KDz9:function(e,t){},bdO0:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var r={render:function(){var e=this.$createElement;return(this._self._c||e)("div",[this._v("MemberScoreMg")])},staticRenderFns:[]};var a=n("VU/8")({name:"MemberScoreMg",data:function(){return{}}},r,!1,function(e){n("KDz9")},"data-v-063e86fe",null);t.default=a.exports}});
+//# sourceMappingURL=19.7c8290ac6658e7f3c1f7.js.map
