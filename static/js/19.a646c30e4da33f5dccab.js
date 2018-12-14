@@ -1,0 +1,2 @@
+webpackJsonp([19],{OY5z:function(e,n){},vu3M:function(e,n,t){"use strict";Object.defineProperty(n,"__esModule",{value:!0});var r={render:function(){var e=this.$createElement;return(this._self._c||e)("div",[this._v("\n  RefundMg\n")])},staticRenderFns:[]};var u=t("VU/8")({name:"RefundMg",data:function(){return{}}},r,!1,function(e){t("OY5z")},"data-v-35c0e1be",null);n.default=u.exports}});
+//# sourceMappingURL=19.a646c30e4da33f5dccab.js.map

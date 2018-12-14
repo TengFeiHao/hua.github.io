@@ -1,0 +1,2 @@
+webpackJsonp([13],{IuRo:function(t,e){},lS9G:function(t,e,n){"use strict";Object.defineProperty(e,"__esModule",{value:!0});var s={render:function(){var t=this.$createElement;return(this._self._c||t)("div",{staticClass:"statistics"},[this._v("\n  统计\n")])},staticRenderFns:[]};var i=n("VU/8")({name:"Statistics",data:function(){return{}},methods:{}},s,!1,function(t){n("IuRo")},null,null);e.default=i.exports}});
+//# sourceMappingURL=13.083e671a409a7d8bd6d7.js.map
